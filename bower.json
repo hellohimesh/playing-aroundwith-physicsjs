@@ -1,0 +1,17 @@
+{
+  "name": "physicsJS",
+  "homepage": "https://github.com/himeshsuthar/playing-aroundwith-physicsjs",
+  "authors": [
+    "himeshsuthar <himesh5983@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
